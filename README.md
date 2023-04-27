@@ -22,9 +22,9 @@ To run the wiremock service type the following:
 First download the wiremock standalone jar file using the instructions found here:
 https://wiremock.org/docs/running-standalone/
 
-And copy it to this project directory: 
+And copy it to this project directory.
 
-The run wiremock using the following command<br>
+Then run wiremock using the following command<br>
 (replace wiremock-jre8-standalone-2.35.0.jar with the name of the downloaded jar file) 
 ```
 java -jar wiremock-jre8-standalone-2.35.0.jar --port 9001
