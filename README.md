@@ -1,7 +1,7 @@
-# udemy-kafka-beginner-wiremock
+# Introduction To Kafka Wiremock
 
-This project contains a standalone wiremock implementation for use with the udemy-kafka-beginner
-project. It represents a third-party stock service which is called by the despatch service of the udemy-kafka-beginner project
+This project contains a standalone wiremock implementation for use with the introduction-to-kafka-with-spring-boot
+project. It represents a third-party stock service which is called by the despatch service of the introduction-to-kafka-with-spring-boot project
 The API call is in the following format :
 
 ```
