@@ -1,11 +1,10 @@
-# Introduction To Kafka Wiremock
+# Introduction to Kafka with Spring Boot - Standalone Wiremock
 
 This repository contains the code to support the [Introduction to Kafka with Spring Boot](https://www.udemy.com/course/introduction-to-kafka-with-spring-boot) online course, for the standalone Wiremock portion of the course.
 
 The associated repository for the Dispatch Service can be found here:  [Dispatch Service Repository](https://github.com/lydtechconsulting/introduction-to-kafka-with-spring-boot)
 
 This project contains a standalone Wiremock implementation that represents a third-party Stock Service which is called by the Dispatch Service and used to trigger retry scenarios.
-
 
 ## Introduction to Kafka with Spring Boot Course Wiki
 Plenty of useful information about your Introduction to Kafka with Spring Boot course can be found in the [Wiki](https://github.com/lydtechconsulting/introduction-to-kafka-with-spring-boot/wiki).
